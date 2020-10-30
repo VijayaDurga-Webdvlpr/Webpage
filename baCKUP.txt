@@ -1,0 +1,15 @@
+ <main>
+       	
+			<aside class = "left">
+				<p>Homemade Foods</p>
+				<p>Recipes</p>
+				<p>Reviews</p>
+				<p>Explores</p>
+
+	    
+	        </aside>
+	        <p>For more interesting food stuff check out my instagram @  <a href="https://www.instagram.com/hotn_dsour/">hotn_dsour</a></p>
+
+	        <img src="abt2.png">
+
+	    </main>
